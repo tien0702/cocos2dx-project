@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+ <dict>
+  <key>frames</key>
+  <dict>
+   <key>./icy (1)</key>
+   <dict>
+    <key>aliases</key>
+    <array/>
+    <key>spriteOffset</key>
+    <string>{-1,1}</string>
+    <key>spriteSize</key>
+    <string>{30,18}</string>
+    <key>spriteSourceSize</key>
+    <string>{32,32}</string>
+    <key>textureRect</key>
+    <string>{{32,0},{30,18}}</string>
+    <key>textureRotated</key>
+    <false/>
+   </dict>
+   <key>./icy (2)</key>
+   <dict>
+    <key>aliases</key>
+    <array/>
+    <key>spriteOffset</key>
+    <string>{-1,1}</string>
+    <key>spriteSize</key>
+    <string>{30,18}</string>
+    <key>spriteSourceSize</key>
+    <string>{32,32}</string>
+    <key>textureRect</key>
+    <string>{{32,20},{30,18}}</string>
+    <key>textureRotated</key>
+    <false/>
+   </dict>
+   <key>./icy (3)</key>
+   <dict>
+    <key>aliases</key>
+    <array/>
+    <key>spriteOffset</key>
+    <string>{-1,0}</string>
+    <key>spriteSize</key>
+    <string>{30,20}</string>
+    <key>spriteSourceSize</key>
+    <string>{32,32}</string>
+    <key>textureRect</key>
+    <string>{{0,0},{30,20}}</string>
+    <key>textureRotated</key>
+    <false/>
+   </dict>
+  </dict>
+  <key>metadata</key>
+  <dict>
+   <key>format</key>
+   <integer>3</integer>
+   <key>size</key>
+   <string>{64,40}</string>
+   <key>textureFileName</key>
+   <string>icy.png</string>
+  </dict>
+ </dict>
+</plist>

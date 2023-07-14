@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+ <dict>
+  <key>frames</key>
+  <dict>
+   <key>./luna-cast (1)</key>
+   <dict>
+    <key>aliases</key>
+    <array/>
+    <key>spriteOffset</key>
+    <string>{-9,0}</string>
+    <key>spriteSize</key>
+    <string>{59,105}</string>
+    <key>spriteSourceSize</key>
+    <string>{105,105}</string>
+    <key>textureRect</key>
+    <string>{{0,0},{59,105}}</string>
+    <key>textureRotated</key>
+    <false/>
+   </dict>
+   <key>./luna-cast (2)</key>
+   <dict>
+    <key>aliases</key>
+    <array/>
+    <key>spriteOffset</key>
+    <string>{-8,0}</string>
+    <key>spriteSize</key>
+    <string>{57,105}</string>
+    <key>spriteSourceSize</key>
+    <string>{105,105}</string>
+    <key>textureRect</key>
+    <string>{{61,0},{57,105}}</string>
+    <key>textureRotated</key>
+    <false/>
+   </dict>
+  </dict>
+  <key>metadata</key>
+  <dict>
+   <key>format</key>
+   <integer>3</integer>
+   <key>size</key>
+   <string>{120,107}</string>
+   <key>textureFileName</key>
+   <string>luna-cast.png</string>
+  </dict>
+ </dict>
+</plist>

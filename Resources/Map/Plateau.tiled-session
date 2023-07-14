@@ -1,0 +1,199 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "Object_1.tsx",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "BG.tsx": {
+            "scaleInDock": 0.33,
+            "scaleInEditor": 1
+        },
+        "BG_1.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "D:/LastMap/M1/BG.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/LastMap/M1/BG_1.tsx": {
+            "scaleInDock": 0.33,
+            "scaleInEditor": 1
+        },
+        "D:/LastMap/M1/Bridge.tsx": {
+            "scaleInDock": 0.125
+        },
+        "D:/LastMap/M1/ObjectStatic.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/LastMap/M1/ObjectStatic1.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/LastMap/M1/map1.tmx": {
+            "scale": 0.4655989583333333,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 960.0536942782035,
+                "y": 641.1096817495385
+            }
+        },
+        "D:/LastMap/M1/meta.tsx": {
+            "scaleInDock": 1
+        },
+        "D:/LastMap/M1/plateau1.tmx": {
+            "scale": 0.34919921875,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1280.071592370938,
+                "y": 960.7696179875832
+            }
+        },
+        "D:/LastMap/M1/plateau2.tmx": {
+            "scale": 0.34919921875,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1280.071592370938,
+                "y": 960.7696179875832
+            }
+        },
+        "D:/LastMap/M1/plateau3.tmx": {
+            "scale": 0.34919921875,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1280.071592370938,
+                "y": 960.7696179875832
+            }
+        },
+        "D:/LastMap/M1/plateau4.tmx": {
+            "scale": 0.34919921875,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1280.071592370938,
+                "y": 960.7696179875832
+            }
+        },
+        "D:/LastMap/M1/tileset.tsx": {
+            "scaleInDock": 1
+        },
+        "Ground.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Object.tsx": {
+            "scaleInDock": 0.125,
+            "scaleInEditor": 1
+        },
+        "Object_1.tsx": {
+            "scaleInDock": 0.25,
+            "scaleInEditor": 1
+        },
+        "Plateau1.tmx": {
+            "expandedObjectLayers": [
+                3,
+                4
+            ],
+            "scale": 0.34919921875,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 1277.2078975334193,
+                "y": 1376.0053694278206
+            }
+        },
+        "Plateau2.tmx": {
+            "expandedObjectLayers": [
+                3,
+                4
+            ],
+            "scale": 0.34919921875,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 1274.3442026959,
+                "y": 1376.0053694278206
+            }
+        },
+        "Plateau3.tmx": {
+            "expandedObjectLayers": [
+                3,
+                4
+            ],
+            "scale": 0.34919921875,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 1277.2078975334193,
+                "y": 1376.0053694278206
+            }
+        },
+        "Plateau4.tmx": {
+            "expandedObjectLayers": [
+                5,
+                6
+            ],
+            "scale": 0.34919921875,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 1277.2078975334193,
+                "y": 1376.0053694278206
+            }
+        },
+        "PlateauBoss.tmx": {
+            "scale": 0.34919921875,
+            "selectedLayer": 6,
+            "viewCenter": {
+                "x": 1274.3442026959,
+                "y": 1373.1416745903016
+            }
+        },
+        "WAll.tsx": {
+            "scaleInDock": 0.33,
+            "scaleInEditor": 1
+        },
+        "meta.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.externalTilesetPath": "D:/LastMap/Map",
+    "last.imagePath": "D:/LastMap/Map",
+    "map.height": 30,
+    "map.lastUsedFormat": "tmx",
+    "map.layerDataFormat": null,
+    "map.orientation": null,
+    "map.tileHeight": 64,
+    "map.tileWidth": 64,
+    "map.width": 40,
+    "openFiles": [
+        "BG.tsx",
+        "BG_1.tsx",
+        "Ground.tsx",
+        "meta.tsx",
+        "Object.tsx",
+        "Object_1.tsx"
+    ],
+    "project": "Plateau.tiled-project",
+    "property.type": "int",
+    "recentFiles": [
+        "BG.tsx",
+        "BG_1.tsx",
+        "Ground.tsx",
+        "meta.tsx",
+        "Object.tsx",
+        "Object_1.tsx",
+        "D:/LastMap/M1/BG_1.tsx",
+        "PlateauBoss.tmx",
+        "Plateau4.tmx",
+        "Plateau3.tmx",
+        "Plateau1.tmx",
+        "WAll.tsx"
+    ],
+    "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)",
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 64,
+        "width": 64
+    }
+}

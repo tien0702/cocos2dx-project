@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+ <dict>
+  <key>frames</key>
+  <dict>
+   <key>./blood-buburst-attack (1)</key>
+   <dict>
+    <key>aliases</key>
+    <array/>
+    <key>spriteOffset</key>
+    <string>{-10,-5}</string>
+    <key>spriteSize</key>
+    <string>{43,35}</string>
+    <key>spriteSourceSize</key>
+    <string>{89,45}</string>
+    <key>textureRect</key>
+    <string>{{55,85},{43,35}}</string>
+    <key>textureRotated</key>
+    <false/>
+   </dict>
+   <key>./blood-buburst-attack (2)</key>
+   <dict>
+    <key>aliases</key>
+    <array/>
+    <key>spriteOffset</key>
+    <string>{-18,-4}</string>
+    <key>spriteSize</key>
+    <string>{53,37}</string>
+    <key>spriteSourceSize</key>
+    <string>{89,45}</string>
+    <key>textureRect</key>
+    <string>{{0,47},{53,37}}</string>
+    <key>textureRotated</key>
+    <false/>
+   </dict>
+   <key>./blood-buburst-attack (3)</key>
+   <dict>
+    <key>aliases</key>
+    <array/>
+    <key>spriteOffset</key>
+    <string>{-19,-4}</string>
+    <key>spriteSize</key>
+    <string>{51,36}</string>
+    <key>spriteSourceSize</key>
+    <string>{89,45}</string>
+    <key>textureRect</key>
+    <string>{{55,47},{51,36}}</string>
+    <key>textureRotated</key>
+    <false/>
+   </dict>
+   <key>./blood-buburst-attack (4)</key>
+   <dict>
+    <key>aliases</key>
+    <array/>
+    <key>spriteOffset</key>
+    <string>{5,0}</string>
+    <key>spriteSize</key>
+    <string>{79,45}</string>
+    <key>spriteSourceSize</key>
+    <string>{89,45}</string>
+    <key>textureRect</key>
+    <string>{{0,0},{79,45}}</string>
+    <key>textureRotated</key>
+    <false/>
+   </dict>
+   <key>./blood-buburst-attack (5)</key>
+   <dict>
+    <key>aliases</key>
+    <array/>
+    <key>spriteOffset</key>
+    <string>{-10,-5}</string>
+    <key>spriteSize</key>
+    <string>{43,35}</string>
+    <key>spriteSourceSize</key>
+    <string>{89,45}</string>
+    <key>textureRect</key>
+    <string>{{55,85},{43,35}}</string>
+    <key>textureRotated</key>
+    <false/>
+   </dict>
+  </dict>
+  <key>metadata</key>
+  <dict>
+   <key>format</key>
+   <integer>3</integer>
+   <key>size</key>
+   <string>{108,122}</string>
+   <key>textureFileName</key>
+   <string>blood-buburst-attack.png</string>
+  </dict>
+ </dict>
+</plist>

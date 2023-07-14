@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+ <dict>
+  <key>frames</key>
+  <dict>
+   <key>./demon-take-hit (1)</key>
+   <dict>
+    <key>aliases</key>
+    <array/>
+    <key>spriteOffset</key>
+    <string>{-2,-26}</string>
+    <key>spriteSize</key>
+    <string>{80,105}</string>
+    <key>spriteSourceSize</key>
+    <string>{288,160}</string>
+    <key>textureRect</key>
+    <string>{{88,107},{80,105}}</string>
+    <key>textureRotated</key>
+    <false/>
+   </dict>
+   <key>./demon-take-hit (2)</key>
+   <dict>
+    <key>aliases</key>
+    <array/>
+    <key>spriteOffset</key>
+    <string>{-15,-27}</string>
+    <key>spriteSize</key>
+    <string>{86,103}</string>
+    <key>spriteSourceSize</key>
+    <string>{288,160}</string>
+    <key>textureRect</key>
+    <string>{{0,107},{86,103}}</string>
+    <key>textureRotated</key>
+    <false/>
+   </dict>
+   <key>./demon-take-hit (3)</key>
+   <dict>
+    <key>aliases</key>
+    <array/>
+    <key>spriteOffset</key>
+    <string>{-20,-26}</string>
+    <key>spriteSize</key>
+    <string>{102,105}</string>
+    <key>spriteSourceSize</key>
+    <string>{288,160}</string>
+    <key>textureRect</key>
+    <string>{{0,0},{102,105}}</string>
+    <key>textureRotated</key>
+    <false/>
+   </dict>
+   <key>./demon-take-hit (4)</key>
+   <dict>
+    <key>aliases</key>
+    <array/>
+    <key>spriteOffset</key>
+    <string>{-12,-28}</string>
+    <key>spriteSize</key>
+    <string>{90,102}</string>
+    <key>spriteSourceSize</key>
+    <string>{288,160}</string>
+    <key>textureRect</key>
+    <string>{{104,0},{90,102}}</string>
+    <key>textureRotated</key>
+    <false/>
+   </dict>
+   <key>./demon-take-hit (5)</key>
+   <dict>
+    <key>aliases</key>
+    <array/>
+    <key>spriteOffset</key>
+    <string>{-2,-27}</string>
+    <key>spriteSize</key>
+    <string>{80,103}</string>
+    <key>spriteSourceSize</key>
+    <string>{288,160}</string>
+    <key>textureRect</key>
+    <string>{{170,107},{80,103}}</string>
+    <key>textureRotated</key>
+    <false/>
+   </dict>
+  </dict>
+  <key>metadata</key>
+  <dict>
+   <key>format</key>
+   <integer>3</integer>
+   <key>size</key>
+   <string>{252,214}</string>
+   <key>textureFileName</key>
+   <string>demon-take-hit.png</string>
+  </dict>
+ </dict>
+</plist>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+ <dict>
+  <key>frames</key>
+  <dict>
+   <key>./thunder-bolt (1)</key>
+   <dict>
+    <key>aliases</key>
+    <array/>
+    <key>spriteOffset</key>
+    <string>{0,0}</string>
+    <key>spriteSize</key>
+    <string>{42,18}</string>
+    <key>spriteSourceSize</key>
+    <string>{42,18}</string>
+    <key>textureRect</key>
+    <string>{{0,0},{42,18}}</string>
+    <key>textureRotated</key>
+    <false/>
+   </dict>
+   <key>./thunder-bolt (2)</key>
+   <dict>
+    <key>aliases</key>
+    <array/>
+    <key>spriteOffset</key>
+    <string>{0,0}</string>
+    <key>spriteSize</key>
+    <string>{42,18}</string>
+    <key>spriteSourceSize</key>
+    <string>{42,18}</string>
+    <key>textureRect</key>
+    <string>{{0,20},{42,18}}</string>
+    <key>textureRotated</key>
+    <false/>
+   </dict>
+   <key>./thunder-bolt (3)</key>
+   <dict>
+    <key>aliases</key>
+    <array/>
+    <key>spriteOffset</key>
+    <string>{0,0}</string>
+    <key>spriteSize</key>
+    <string>{42,18}</string>
+    <key>spriteSourceSize</key>
+    <string>{42,18}</string>
+    <key>textureRect</key>
+    <string>{{0,40},{42,18}}</string>
+    <key>textureRotated</key>
+    <false/>
+   </dict>
+  </dict>
+  <key>metadata</key>
+  <dict>
+   <key>format</key>
+   <integer>3</integer>
+   <key>size</key>
+   <string>{44,60}</string>
+   <key>textureFileName</key>
+   <string>thunder-bolt.png</string>
+  </dict>
+ </dict>
+</plist>

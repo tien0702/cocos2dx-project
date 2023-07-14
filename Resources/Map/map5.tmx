@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.9" tiledversion="1.9.0" orientation="orthogonal" renderorder="right-down" width="30" height="20" tilewidth="64" tileheight="64" infinite="0" nextlayerid="8" nextobjectid="6">
+ <tileset firstgid="1" source="BG.tsx"/>
+ <tileset firstgid="3901" source="Bridge.tsx"/>
+ <tileset firstgid="24901" source="ObjectStatic.tsx"/>
+ <tileset firstgid="45901" source="ObjectStatic1.tsx"/>
+ <tileset firstgid="66901" source="meta.tsx"/>
+ <layer id="1" name="BG" width="30" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzV1lsOQDAQheGO/dixy3r0wW07SIxEgzqNqtHw8D+QyDfaRmillAbVXMO1u3sDnRsJPx8acjWYQcrNuJzrV7dbr02F5U6LK2Cb93SF1n2xq4f+Hdfec+OHzHDXdZ23/QwoCfdqBpS062u/4bpKk62YrvS5iuHa3xGfCgE3JJ81esNFaxTDRcVwS47o2Ff2V9F5tqclwv8Gf2wGyNLLyw==
+  </data>
+ </layer>
+ <layer id="2" name="Wall" width="30" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztk8kNwjAQRaeDADdQQgeEUARbEWylAYHUwFYEWz/8A4fwNRlZWXziS0+RJcvfz8rELZEhSMAIFCWNRA4Kx+h33wlnnMEFXMEN3NsiD/AEL/BW1kVJ+rjXl9DoHeOMCZiCGZiDRUdkCVZgDTbK2iV59wz0Inv/AM4xvaurL7uH1N01+rW3L+Ordef7+Q7a25fxtbq1O2iU9XXptqjim+/W/nWLqr7WHSzq8HXJNhDZgT1Ig/p9i8Iz7MuXZ9iXL8+wL1+OL1/O39dP2Jfnu6kv+/J8N/X9AKe2l2M=
+  </data>
+ </layer>
+ <objectgroup id="5" name="Point">
+  <object id="3" name="Gate" x="424.242" y="78.7879" width="112.121" height="63.6364">
+   <properties>
+    <property name="effectName" value="gate-1"/>
+   </properties>
+  </object>
+  <object id="4" name="Chest" x="387.879" y="227.273">
+   <point/>
+  </object>
+  <object id="5" name="Teleport" x="1660.61" y="954.545">
+   <point/>
+  </object>
+ </objectgroup>
+ <objectgroup id="6" name="SpawnArea">
+  <object id="1" x="303.03" y="221.212" width="484.848" height="878.788"/>
+  <object id="2" x="839.394" y="781.818" width="636.364" height="342.424"/>
+ </objectgroup>
+ <layer id="3" name="ObjectStatic" width="30" height="20">
+  <data encoding="base64" compression="zlib">
+   eJztlVkOgjAYhP9LuVxBjcsVFFr6QOK5XC7hcgUlog8knkBP4JjQ2JY2iNAn+ZJJCITM9F+ASIcJIi6oQBYRDTjREBrxz/0Trs9QwovvVOEBz6fFNxZ2jznyLKDAketbksj9TPWwoeaqk8FF6vBVczVVf5Oy85TV5lfU86wCojW0gbZBsz4m6nk6IVEX6kH90K+vum87eO2hA3QM9R6Y/bjXrLvct/eMjRnRBJpCM6b3wJyvpWVHq5Ll2S/wSqErdGN6D3zMV5xnV2sud8y1a03i+sa1tPhC7prrv+4LuWv/PvMvvExpvA==
+  </data>
+ </layer>
+ <layer id="4" name="ObjectStatic1" width="30" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzl1MltAkEUhOF3xYBzYDE5YJYQ2IwdwswwObDmwJoDm08QAMYQAqshEv4zUo/UUtNCcknf7XXXrUTUSddE3pFBFjnkawEPDGVFxw/W+MUGWwu9ZV+kgg9U8Ykv//G9RzpOOOMPF1wt9N6n7og00EQLbXQcc/eqhFyRF4QRQRSvrrl7Vbq86aGPAYYYBfyje69KzBOJI4Ek3pDyzN2rMubNBFPMMMd3wD+696ro7oip3dHdEVO7o7sjpnZHd0eeZXf+WwoLkSJKC7u9O/r2OFjudZYiLryl3d5nyA3TA4BZ
+  </data>
+ </layer>
+ <layer id="7" name="Meta" width="30" height="20">
+  <data encoding="base64" compression="zlib">
+   eJzllVEKwCAMQ7ePHbG9/1E2YYMSUrS22z4M5EdLH6micuyb/Gy9zMRq7V5UjNvrw7hR9mjeUfYoP8rVu0YdjncWlVxke3uZe9XjCqz3XDVn1uctrhomY1fO+ZEA26th9TN5sadCVsyP3GzeGa3GtVqFm73PUVYT/nlfcS07+r5VOfO2ZX0CPrprYg==
+  </data>
+ </layer>
+</map>

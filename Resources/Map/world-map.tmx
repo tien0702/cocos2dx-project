@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.9" tiledversion="1.9.0" orientation="orthogonal" renderorder="right-down" width="21" height="22" tilewidth="64" tileheight="64" infinite="0" nextlayerid="3" nextobjectid="3">
+ <tileset firstgid="1" source="wold-map.tsx"/>
+ <layer id="1" name="BG" width="21" height="22">
+  <data encoding="base64" compression="zlib">
+   eJxd1GWwFXUAh+Fz6Y5Ld3d3d9elpbu7uy7dSisNCihYYIABdicoKKG0gh1ggBLPcmGA/fDM7m9m9505O2f+UZFIJB7xSUBCEpGYJCQlGclJQUpSkZo0pCWaB6LitCKdnZ4MZCQTmclCVrKRnRzkJBe5yUNe8pE/1CxgF6QQhSlCUYpRnBKUpBSlKUNZylGeClQMNSvZlalCVapRnRrUpBa1qUNd6lGfBjSkEY1DzSZ2U5rRnBbE0JJWtKYNbWlH++B9OtCRTnSO3O0Futhd6UZ3etCTXvSmD33pR38GMJBBDGYIQ1niMwf9oDnMdTgjGMkoRjOGsYxjPBOYyCQmM4WpTGM6S+O6sUFzhvtYZjKL2cxhLvOYzwIWsojFce/eajzIQyzj0cjd377c/QpWsorVrOFhHmEt61jPBjayic1sYevt3r3f8zF7G9vZweM8wU528SRP8TTP8Cy72cNzPM8LoeaL9l728RIv8wqvsp8DvMbrvMGbvMXbvMO7vBdqvm9/wId8xMd8wqd8xucc5BBf8CWHOcJXfM3RyP3/z2P2cU7wDd9yklOc5gxnOcd5vuN7LnCRH/gx1PzJ/plf+JXf+J0/+JNLXOYv/uYf/uUKV/mP/0PNa/Z1bhCxo4hHfBKQkEQkJglJSUZyUpCSVFH3N1OThrREB+cU6clARjKRmSxkJRvZyUFOcpE71MxDXvKRPzinKEghClOEohSjOCUoSSlKU4ayoWY5ylOBisE5RWWqUJVqVKcGNalFbepQl3rUDzUb0JBGNA7OKZrSjOa0IIaWt59vTRva0o729/TuNDvQkU50pgtd6UZ3etCTXvSmD33pR38GMDDUHMRghjCUYQxnBCMZxWjGMJZxjGcCE5nE5FBzClOZxnRmEMtMZjGbOcxlHvNZwEIWsZgloeZNF0699Q==
+  </data>
+ </layer>
+ <objectgroup id="2" name="Point">
+  <object id="1" x="442.667" y="564">
+   <properties>
+    <property name="ChapterID" type="int" value="2"/>
+   </properties>
+   <point/>
+  </object>
+  <object id="2" x="297.333" y="784">
+   <properties>
+    <property name="ChapterID" type="int" value="1"/>
+   </properties>
+   <point/>
+  </object>
+ </objectgroup>
+</map>

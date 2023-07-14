@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+ <dict>
+  <key>frames</key>
+  <dict>
+   <key>./blood-buburst-idle (1)</key>
+   <dict>
+    <key>aliases</key>
+    <array/>
+    <key>spriteOffset</key>
+    <string>{0,0}</string>
+    <key>spriteSize</key>
+    <string>{39,37}</string>
+    <key>spriteSourceSize</key>
+    <string>{39,37}</string>
+    <key>textureRect</key>
+    <string>{{45,38},{39,37}}</string>
+    <key>textureRotated</key>
+    <false/>
+   </dict>
+   <key>./blood-buburst-idle (2)</key>
+   <dict>
+    <key>aliases</key>
+    <array/>
+    <key>spriteOffset</key>
+    <string>{0,0}</string>
+    <key>spriteSize</key>
+    <string>{41,36}</string>
+    <key>spriteSourceSize</key>
+    <string>{41,36}</string>
+    <key>textureRect</key>
+    <string>{{45,0},{41,36}}</string>
+    <key>textureRotated</key>
+    <false/>
+   </dict>
+   <key>./blood-buburst-idle (3)</key>
+   <dict>
+    <key>aliases</key>
+    <array/>
+    <key>spriteOffset</key>
+    <string>{0,0}</string>
+    <key>spriteSize</key>
+    <string>{43,35}</string>
+    <key>spriteSourceSize</key>
+    <string>{43,35}</string>
+    <key>textureRect</key>
+    <string>{{0,38},{43,35}}</string>
+    <key>textureRotated</key>
+    <false/>
+   </dict>
+   <key>./blood-buburst-idle (4)</key>
+   <dict>
+    <key>aliases</key>
+    <array/>
+    <key>spriteOffset</key>
+    <string>{0,0}</string>
+    <key>spriteSize</key>
+    <string>{43,36}</string>
+    <key>spriteSourceSize</key>
+    <string>{43,36}</string>
+    <key>textureRect</key>
+    <string>{{0,0},{43,36}}</string>
+    <key>textureRotated</key>
+    <false/>
+   </dict>
+  </dict>
+  <key>metadata</key>
+  <dict>
+   <key>format</key>
+   <integer>3</integer>
+   <key>size</key>
+   <string>{88,77}</string>
+   <key>textureFileName</key>
+   <string>blood-buburst-idle.png</string>
+  </dict>
+ </dict>
+</plist>

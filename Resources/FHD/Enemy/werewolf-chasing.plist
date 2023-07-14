@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+ <dict>
+  <key>frames</key>
+  <dict>
+   <key>./werewolf-chasing (1)</key>
+   <dict>
+    <key>aliases</key>
+    <array/>
+    <key>spriteOffset</key>
+    <string>{-4,0}</string>
+    <key>spriteSize</key>
+    <string>{28,34}</string>
+    <key>spriteSourceSize</key>
+    <string>{70,37}</string>
+    <key>textureRect</key>
+    <string>{{36,0},{28,34}}</string>
+    <key>textureRotated</key>
+    <false/>
+   </dict>
+   <key>./werewolf-chasing (2)</key>
+   <dict>
+    <key>aliases</key>
+    <array/>
+    <key>spriteOffset</key>
+    <string>{-5,0}</string>
+    <key>spriteSize</key>
+    <string>{34,34}</string>
+    <key>spriteSourceSize</key>
+    <string>{70,37}</string>
+    <key>textureRect</key>
+    <string>{{0,0},{34,34}}</string>
+    <key>textureRotated</key>
+    <false/>
+   </dict>
+   <key>./werewolf-chasing (3)</key>
+   <dict>
+    <key>aliases</key>
+    <array/>
+    <key>spriteOffset</key>
+    <string>{-4,0}</string>
+    <key>spriteSize</key>
+    <string>{32,34}</string>
+    <key>spriteSourceSize</key>
+    <string>{70,37}</string>
+    <key>textureRect</key>
+    <string>{{0,36},{32,34}}</string>
+    <key>textureRotated</key>
+    <false/>
+   </dict>
+   <key>./werewolf-chasing (4)</key>
+   <dict>
+    <key>aliases</key>
+    <array/>
+    <key>spriteOffset</key>
+    <string>{-3,0}</string>
+    <key>spriteSize</key>
+    <string>{32,34}</string>
+    <key>spriteSourceSize</key>
+    <string>{70,37}</string>
+    <key>textureRect</key>
+    <string>{{34,36},{32,34}}</string>
+    <key>textureRotated</key>
+    <false/>
+   </dict>
+  </dict>
+  <key>metadata</key>
+  <dict>
+   <key>format</key>
+   <integer>3</integer>
+   <key>size</key>
+   <string>{68,72}</string>
+   <key>textureFileName</key>
+   <string>werewolf-chasing.png</string>
+  </dict>
+ </dict>
+</plist>

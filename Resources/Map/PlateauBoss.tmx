@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.9" tiledversion="1.9.2" orientation="orthogonal" renderorder="right-down" width="40" height="30" tilewidth="64" tileheight="64" infinite="0" nextlayerid="9" nextobjectid="10">
+ <tileset firstgid="1" source="BG_1.tsx"/>
+ <tileset firstgid="21001" source="WAll.tsx"/>
+ <tileset firstgid="42001" source="Object.tsx"/>
+ <tileset firstgid="63001" source="meta.tsx"/>
+ <tileset firstgid="63004" source="Object_1.tsx"/>
+ <layer id="1" name="BG" width="40" height="30">
+  <data encoding="base64" compression="zlib">
+   eJzt0TENADAIAEF8tF4xUNE46AohN9z+yeeJyMHe7W/4tenb+RYAAACYowD9h9JT
+  </data>
+ </layer>
+ <layer id="2" name="Wall" width="40" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztmMtNw0AQhqcyUHgEyQUk4nXxCu+WsVegCkQH5ARI6QBIQKKApAOgAP5VvN6xiR1LczHS/NIvWfPaz8eZ6yuim4H6Fr4riMZut2cF+Qe4T22b0R/m9K6/L+p8k5a6EN+35Pds4mvWFobIws5U+T//gv4wp5brejPyvbuNVy59c2+LN2Nf4PqGf0yV99tmNXNdb0a+oUr5ZFI+mZRPJuWTSflkUj6ZlE8m5ZNJ+WRSPpn+A98j9tGngfrZbnb6sA/Pbfd+H/LsllDrGeVEB/AhfAQf5+leEPu67gZzxsHrTsqdPnxnbL/nO/zUpXyMlzeAqucFPK/wG7yAl3m6F2Ssh831UzYvYxyxblLyxX39s2WHX7fkVyx2aojO4HP4Ar40O+f6dY+3P+BfBJBejQ==
+  </data>
+ </layer>
+ <layer id="8" name="Wall1" width="40" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztmMtNw0AQhqcyUHgEyQUk4nXxCu+WsVegCkQH5ARI6QBIQKKApAOgAP5VvN6xiR1LczHS/NIvWfPaz8eZ6yuim4H6Fr4riMZut2cF+Qe4T22b0R/m9K6/L+p8k5a6EN+35Pds4mvWFobIws5U+T//gv4wp5brejPyvbuNVy59c2+LN2Nf4PqGf0yV99tmNXNdb0a+oUr5ZFI+mZRPJuWTSflkUj6ZlE8m5ZNJ+WRSPpn+A98j9tGngfrZbnb6sA/Pbfd+H/LsllDrGeVEB/AhfAQf5+leEPu67gZzxsHrTsqdPnxnbL/nO/zUpXyMlzeAqucFPK/wG7yAl3m6F2Ssh831UzYvYxyxblLyxX39s2WHX7fkVyx2aojO4HP4Ar40O+f6dY+3P+BfBJBejQ==
+  </data>
+ </layer>
+ <objectgroup id="6" name="Point">
+  <object id="5" name="Teleport" x="1237.12" y="1623.71">
+   <point/>
+  </object>
+  <object id="8" name="Chest" x="1406.07" y="438.145">
+   <point/>
+  </object>
+  <object id="9" name="Gate" x="1176.98" y="157.503" width="137.457" height="120.275">
+   <properties>
+    <property name="effectName" value="gate-1"/>
+   </properties>
+  </object>
+ </objectgroup>
+ <objectgroup id="7" name="SpawnArea">
+  <object id="6" x="80.1835" y="483.964" width="2391.19" height="455.327"/>
+  <object id="7" x="97.3656" y="1056.7" width="2385.46" height="455.327"/>
+ </objectgroup>
+ <layer id="3" name="ObjectStatic" width="40" height="30">
+  <data encoding="base64" compression="zlib">
+   eJzt1LEJACAQBMHrR9vy29IutDxNzB98EWEnPrhsJeA/tUitxO2iJZOyxe2i9fU5HL/eHQBs9PkMfQZwC30+Q5+B9yae2yBr
+  </data>
+ </layer>
+ <layer id="4" name="ObjectStatic1" width="40" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztlcENgDAMA8sWsA5jMDRjdA6+UV7YVqJW8r0d2a/cGHtynwedRW7Z3hfoyFnklu19rv8dOYvcsr0T6MhZ5FbpNcYYFcVHVcRNio+qiJsUH1URN63olBU3GWNqYV3T5SjWNV2OYl3T5Sj2r9sHZkc+EtoVsQ==
+  </data>
+ </layer>
+ <layer id="5" name="Meta" width="40" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztl0sKwDAIRHONeP8zdt2VINLm46D54INZNK3JW5SB1KeUmlkeElntEu33xd86Q+K9/lY+U2ef1rktvx6j5876SRC/0Tnr/jyLzHuTfhjphyG7dTdkz1v8vPvvJD/LP+jdz4hbFOmHkX4YN/pxn832n6UHb/ab7ecoP+/7gJ7Rd8Odcopfxp4XuAeqCA==
+  </data>
+ </layer>
+</map>

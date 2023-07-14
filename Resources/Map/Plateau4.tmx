@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.9" tiledversion="1.9.2" orientation="orthogonal" renderorder="right-down" width="40" height="30" tilewidth="64" tileheight="64" infinite="0" nextlayerid="9" nextobjectid="14">
+ <tileset firstgid="1" source="BG_1.tsx"/>
+ <tileset firstgid="21001" source="WAll.tsx"/>
+ <tileset firstgid="42001" source="Object.tsx"/>
+ <tileset firstgid="63001" source="Object_1.tsx"/>
+ <tileset firstgid="84001" source="meta.tsx"/>
+ <layer id="1" name="BG" width="40" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztzqENAEAIBEFqoBQs/feFffPBQHIkK8ZPuFkAAAA8UuDQ/VSP6bq/9Fs/hefv1FE88dP/Tdwu/DaOk7cLv4nr5okfv41fASRcSJY=
+  </data>
+ </layer>
+ <layer id="2" name="Wall" width="40" height="30">
+  <data encoding="base64" compression="zlib">
+   eJzVlTtOw0AQht0BDXADoEGcAEqUmkdKTI2NhB0wB+AWvCTgNKTE1EAMFdyChpmsRxqtZtdrexObX/pEYXn5882sXKRB8JnI3F+Yn/ngDs6/OldIzyfQrbD0W4D3Fw0sAysOrFrOWGrZ7xrevzHwADw68GQ547Zlv7UsCNYNbAK/o2q2LGdsZO36dc1/6LcH7AM7Pegj9XsD3oFxD/og24nyhRwAJ7DDETDsyZyfE+UL+QB+4mCavuzhYap8ITFwear60R52vYu4c5RvcPcSKYe0h13sor5zlAzcHcXKIe1hF7uo7xxlEKm/5JAy713Udw7nmkOn17IfOaTwXTSBOzr9LYb/eVZ64LMzwWdKcw2h0zFzhg5zYRdNjCv6fZXP+exM4EzJGffGgw5DYRdNDFO3fnx2JnCm5Ez3poc85synlMKx3ySV38dUOZNCHkPmc1b9XJ3Zot9tX/3QnaszW/S77asfumvqTI/ksE0/X+4oksM2/Xy6o0jfmKb9Bh7dUXSHTfrp3y3f4Q6b9JO+Wz7DHdbt5/tOmLIbNes3izshhWZcp9+83GFoxnX6tXH3B7pntY4=
+  </data>
+ </layer>
+ <layer id="8" name="Wall1" width="40" height="30">
+  <data encoding="base64" compression="zlib">
+   eJzVlTtOw0AQht0BDXADoEGcAEqUmkdKTI2NhB0wB+AWvCTgNKTE1EAMFdyChpmsRxqtZtdrexObX/pEYXn5882sXKRB8JnI3F+Yn/ngDs6/OldIzyfQrbD0W4D3Fw0sAysOrFrOWGrZ7xrevzHwADw68GQ547Zlv7UsCNYNbAK/o2q2LGdsZO36dc1/6LcH7AM7Pegj9XsD3oFxD/og24nyhRwAJ7DDETDsyZyfE+UL+QB+4mCavuzhYap8ITFwear60R52vYu4c5RvcPcSKYe0h13sor5zlAzcHcXKIe1hF7uo7xxlEKm/5JAy713Udw7nmkOn17IfOaTwXTSBOzr9LYb/eVZ64LMzwWdKcw2h0zFzhg5zYRdNjCv6fZXP+exM4EzJGffGgw5DYRdNDFO3fnx2JnCm5Ez3poc85synlMKx3ySV38dUOZNCHkPmc1b9XJ3Zot9tX/3QnaszW/S77asfumvqTI/ksE0/X+4oksM2/Xy6o0jfmKb9Bh7dUXSHTfrp3y3f4Q6b9JO+Wz7DHdbt5/tOmLIbNes3izshhWZcp9+83GFoxnX6tXH3B7pntY4=
+  </data>
+ </layer>
+ <objectgroup id="5" name="Point">
+  <object id="11" name="Teleport" x="1237.12" y="1726.81">
+   <point/>
+  </object>
+  <object id="12" name="Chest" x="1005.16" y="200.459">
+   <point/>
+  </object>
+  <object id="13" name="Gate" x="1119.7" y="77.3198" width="214.777" height="48.6828">
+   <properties>
+    <property name="effectName" value="gate-1"/>
+   </properties>
+  </object>
+ </objectgroup>
+ <objectgroup id="6" name="SpawnArea">
+  <object id="7" x="1566.44" y="272.051" width="461.055" height="592.785"/>
+  <object id="8" x="483.964" y="263.46" width="461.055" height="595.649"/>
+  <object id="9" x="976.52" y="269.187" width="564.148" height="544.102"/>
+  <object id="10" x="1108.25" y="844.79" width="272.051" height="504.01"/>
+ </objectgroup>
+ <layer id="3" name="ObjectStatic" width="40" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztl0lOw0AQRYtRwIoViFHAihWI8TwQ4AiMAk4AYRCwYgViCBtW2YAUKU7suzCegSeEZaXVbdyR6UTCX/qLrrL1v7vK7rJIMhyURCbLEZeLIjm4EsNVuFaM7smXEoplyJAhQ4Zv9D422kE8LpvcX73YrYjswf2KXS4J0qhpV1WkG/ZU7XJJYKqpje8ztM/hhcZDXC4Ov+nb9OKYLzIOJ3y7XFr6/wWuvl+qzgi1GzXUr494/09OV7O/8KzqFNB/MPi7In4d03su+mwhEFkM9Lkp4tOanItahxpl9D2Dvyfiz5qci32z1Qifx/U5P0R/DRt6bID4oPJ+uPq2hftwh/69wd8N8Vu/9npXCPdhjv6aN/TfDPHZILq+mWa4JY//d5jzolgjzq0X9F/hm1cbf2f9AT89/X2usM5stwE3lRlvi/U23Klz9ksLLcxOrbBNmaHaWXfAzjpnv7RwiH4eHik+jlmfwNMU/H0BfHOLIQ==
+  </data>
+ </layer>
+ <layer id="4" name="ObjectStatic1" width="40" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztlEdOw1AURZ8ZM6M5a6BlMXQYM6KEsgfqHqgLYEZdDJ2MmbpxLBLJjl5wov9tg/CRziQ/lq/8r65IRUXFX2DeE1nARVzCZa/sRGleyPOKb/iOH618q4NOucFabPoiDdzCbdzxv3///CX5PPL4GGCIkV92ojR7gcg+HuAhHgVlJ0ozFIoM4wiO4liYPm/3cMZ1ZBbn3HzvvfM9J+Q5xTM8x4uOfO0ePvL/J3zOOV/yPfG3GY9EJnASp3A60p9bqzmyjhs1O/m0XVvx0u+Jv801eW7wFu/wvku+XsjqQPJc27Wmxe3V9jGrA8lzbdd2LW6Hto9ZHUieq7tmeTu6dagXtF07tpjvasCsQ9quuWH2c/1g0iFt1y4t5zPpkLZrdYPt0DDpkLZrD5bzFdEhE4rokAk2OhTvQF4U0aH/Qr/3lOe9VvzMF7mCByY=
+  </data>
+ </layer>
+ <layer id="7" name="Meta" width="40" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztldEJwCAMRNtRdJruP1HphyCBSw61RiWBfDVnXuNJ0nNfafFEYekyka296/7B9w+fd6zGZ83eO3bga/WqJ98XO/B5zzKL3hpf8ah1HqrTvskaNBuNL03i094BukuWT6tjd0wPH5saH5va//ecjWbM7N5T+Ziw3njtr9Y4nY+5m+DD2pF1SBv+Cz6kHVmHtCP8Jz0o93/wYe0M/62cL/y8t2U=
+  </data>
+ </layer>
+</map>

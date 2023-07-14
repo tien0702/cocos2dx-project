@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.9" tiledversion="1.9.0" orientation="orthogonal" renderorder="right-down" width="40" height="30" tilewidth="64" tileheight="64" infinite="0" nextlayerid="9" nextobjectid="9">
+ <tileset firstgid="1" source="BG_1.tsx"/>
+ <tileset firstgid="21001" source="WAll.tsx"/>
+ <tileset firstgid="42001" source="Object.tsx"/>
+ <tileset firstgid="63001" source="Object_1.tsx"/>
+ <tileset firstgid="84001" source="meta.tsx"/>
+ <layer id="1" name="BG" width="40" height="30">
+  <data encoding="base64" compression="zlib">
+   eJzt1LEVgDAIBFBmMJukdQ7dXyfRziaFchBIvOLKkP8ej6uLSHXOCsTbNqpvKyJ7yeFrOY/bdibzaXZNH2aM8H0xRvlaxkjLrEG6vcdu6KMv0mntszb+0Wfp1cyazYc4te/pe/7pdWP0jenzNFr11Ftjdh/SExl9F99sTuQ=
+  </data>
+ </layer>
+ <layer id="2" name="Wall" width="40" height="30">
+  <data encoding="base64" compression="zlib">
+   eJy9lkFuAjEMRecYqHepEFcoiwxrZphZchEq9Q6tOADtFWAxcIveoixwhCxFrkPsJOZLfzOQzNN37Myxa5qjkU/gBfiRJvj9DL50/PO33s5L8N+maX7WcT4H/2nBq55//trZeTbe35VifCRLvk/g+xjKGC35ajDuhnK/D3LGVL9YaD/KGUvOojVjql8O8OybuKZexvyz6Nmum/97nrsy/wZzS1NnZMScODavti/zluyrZbTWxOSYqjMyfglcKhfJMZWh1LU0J3tJ6vxMPq7ONRhrKVbnUsbamkiGXpJ+eRafq5whFXfHhJbcnXgWw/OYy0jZYnMcJbnfXWR+59RZw6ZhRIV9nZMhis6vlKTfcbSvtRl6abJD4d2uydFnqOXLYaOcEkbsay2ftq6cpLX279LycfNUK2mGnk/bI9w8tWLMOYPhulKl6oxZaDIM11nzeWEWUka6zprPKWfhDfDr8h0=
+  </data>
+ </layer>
+ <layer id="8" name="Wall1" width="40" height="30">
+  <data encoding="base64" compression="zlib">
+   eJy9lkFuAjEMRecYqHepEFcoiwxrZphZchEq9Q6tOADtFWAxcIveoixwhCxFrkPsJOZLfzOQzNN37Myxa5qjkU/gBfiRJvj9DL50/PO33s5L8N+maX7WcT4H/2nBq55//trZeTbe35VifCRLvk/g+xjKGC35ajDuhnK/D3LGVL9YaD/KGUvOojVjql8O8OybuKZexvyz6Nmum/97nrsy/wZzS1NnZMScODavti/zluyrZbTWxOSYqjMyfglcKhfJMZWh1LU0J3tJ6vxMPq7ONRhrKVbnUsbamkiGXpJ+eRafq5whFXfHhJbcnXgWw/OYy0jZYnMcJbnfXWR+59RZw6ZhRIV9nZMhis6vlKTfcbSvtRl6abJD4d2uydFnqOXLYaOcEkbsay2ftq6cpLX279LycfNUK2mGnk/bI9w8tWLMOYPhulKl6oxZaDIM11nzeWEWUka6zprPKWfhDfDr8h0=
+  </data>
+ </layer>
+ <objectgroup id="3" name="Point">
+  <object id="5" name="Chest" x="2081.91" y="1698.17">
+   <point/>
+  </object>
+  <object id="6" name="Teleport" x="171.822" y="257.733">
+   <point/>
+  </object>
+  <object id="8" name="Gate" x="2193.59" y="1741.13" width="214.777" height="88.7745">
+   <properties>
+    <property name="effectName" value="gate-1"/>
+   </properties>
+  </object>
+ </objectgroup>
+ <objectgroup id="4" name="SpawnArea">
+  <object id="1" x="1887.17" y="733.106" width="595.649" height="844.79"/>
+  <object id="2" x="1577.9" y="558.42" width="294.961" height="504.01"/>
+  <object id="3" x="1323.03" y="274.915" width="223.368" height="231.959"/>
+ </objectgroup>
+ <layer id="5" name="ObjectStatic" width="40" height="30">
+  <data encoding="base64" compression="zlib">
+   eJzt1cdSFEEcx/H/CxAkPgE5nRWUdCQVKEh4ARAQhScAlPgEZBYu7p4kyRKuggriUdQSUBSqiBdBBEG+U3Cw1q1ipu1loeBf9bnMbvf/1zPdMyLXdZFraNzbCc6uZ8893yPYLhKCULvaeE/fRxu5+tCvmM8olTUa6zIzLs4hEo8Eh3o+s2t0zaPj3pgps2t0zeM6zupeUd2b7sYZvXU8q79L5f4bOS7ac9M17rq8U5fhW3YZ6n+/hZ6u83pvqNZVf2/cXBO5hUQk4TbuIBkpSEUa0tfMz6lzT76k7xSm8Qqv8QYzmMVbzOGdhXw692Tuukge7uIe8lGA+yhEEYpRsm5+Tp178jN9F7CIJXzBVyzjG75jBasW8umssg2RByhHBSrxEFV4hMeoRs2Gd/Lt0HcXP7GHX9jHAX7jEEf446V8tZsidajHEzxFAxrRhGa0oHXT+tw6zrHPlogv/OCPGwhAIIIQjBCEblmfW8c5bqNvOzrQiS50owe9sKEP/Qr5dJzjsG2RcEQgElGIRgxiEYd4JGyf/L/UyZlyWu+TMSmSiazJf3/L5lqOm+tGDdB3EEMYxgheYBROjGEcE6f5fpBtRyHfe/rP44ObHB+59gnHC4Ma1g==
+  </data>
+ </layer>
+ <layer id="6" name="ObjectStatic1" width="40" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztl9dNQ0EQRXdtg7F7ILkNaIDYA7EHk3og9kCmC2iA2AOxAo4/noTQDBvfyh9c6eh97ZsrXc3srDH/yq05Y808LMAiLMEyDIvu8fIAj/AEz/AyRP5WrDWrsAbrsAGbtl5/UmaaXvHyBu/wAZ/wVbM/KTNN/YY1W7ANO7ALe416/UmZaRppWjMKbRiDDnSbbn8pfSVlpmkfLwdwCEdwDCce/lL6SspM03jLmgmYhCmYhl7LXSelr6TMNJ3i5QzO4QIu4crDX0pfxWYWopS+kjLLLSkj37kmZfZbWv/51pAyCplrLmn951tDyihkrrmk9Z9vDSmjkLnmktZ/KTVC5lrMvwb9l1IjZK7F/Gtwr6XUyDnXtH+l1Mg517R7LaWGz1z7S9rM+3mvSTVKvQFid45Sb4DYnaPUGyB25yj1BojdOUq9AWJ3+dhzoXLNtuuONTdQfX3P5ZJrl5/pWjML1df3XC65dvlbPN1B9fU9l0vfuhPNZw==
+  </data>
+ </layer>
+ <layer id="7" name="Meta" width="40" height="30">
+  <data encoding="base64" compression="zlib">
+   eJzt1m0KgCAMBuA6yjxN9z9R/QnkbdP20VqQ4I9E3MN0Gm3rQn93dWztGMNubW0QZ9Y0Po/VaszyWY2ZPovxnIuxJRc97JPqQ/JpPbNct21cl+jpv8nhs5wHNHL5irqfLGeVi485ibw/Jecs77hvnM/TZnmMWDvK14+N7oJMH7dWZR+uV9EX9f5E+nDN6j40Wt7GJ3xo5O7dir4q+yvFoA/4tHuc4fPE+n3XeNr52T5NHb/h09TxW767dZzt62Ny/+B35lXrO1zPuUE=
+  </data>
+ </layer>
+</map>
